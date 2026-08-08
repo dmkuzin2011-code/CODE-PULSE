@@ -2,9 +2,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-green)](LICENSE)
-[![Version](https://img.shields.io/badge/version-beta%200.0.2-orange)](info/UPDATE_BETA_0_0_2.md)
+[![Version](https://img.shields.io/badge/version-beta%200.0.4-orange)](info/UPDATE_BETA_0_0_4.md)
 
 **Code-pulse** is a CLI tool for analyzing and monitoring file structures, inspired by Git and other console utilities.
+<div style="text-align: center">
+<img src="code-pulse.png" width="50%" height="50%" alt="Code-Pulse icon">
+</div>
 
 ## About the Project
 
@@ -19,6 +22,7 @@ Code-pulse helps track changes in file structures, maintain scan history, and se
 - 📜 **Scan History** — save and export results
 - 🔐 **Secure Storage** — vault module for sensitive data with encryption
 - ⚙️ **Configuration** — personalize themes and names
+- 🎇 **Plugins and add-ons** -plugin support is provided.
 
 ## Installation
 
@@ -34,7 +38,7 @@ pip install prompt-toolkit rich cryptography
 ### Running
 
 ```bash
-python "Source code/Pulse_repl_beta_0_0_2.py"
+python "Source code/Pulse_repl_beta_0_0_4.py"
 ```
 
 ## Usage
@@ -109,12 +113,15 @@ Code Pulse Beta on Python/
 ├── LICENSE                     # AGPL-3.0 License
 ├── info/
 │   ├── BUGGERS.md             # Fixed bugs
-│   └── UPDATE_BETA_0_0_2.md   # Update history
-├── Pulse exe/
-│   ├── config.json            # Configuration
-│   └── Pulse_repl_beta_0_0_2.exe  # Executable
+│   └── UPDATE_BETA_....md   # Update history
+├── Pulse exe/exe+config etc.
 └── Source code/
-    └── Pulse_repl_beta_0_0_2.py  # Source code
+    ├──Pulse_repl_beta_0_0_4.py  # Source code
+    ├──plugins/
+    ├──config.py
+    ├──plugin_api.py
+    ├──plugin_loader.py
+    └──code-pulse.ico
 ```
 
 ## License
@@ -137,6 +144,6 @@ If you have questions or suggestions, create an issue in the repository.
 
 ---
 
-**Status:** Beta 0.0.2 — active development
+**Status:** Beta 0.0.4 — active development
 
-**Last Update:** See [info/UPDATE_BETA_0_0_2.md](info/UPDATE_BETA_0_0_2.md)
+**Last Update:** See [info/UPDATE_BETA_0_0_4.md](info/UPDATE_BETA_0_0_4.md)

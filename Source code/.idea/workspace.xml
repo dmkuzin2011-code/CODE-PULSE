@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ae9c42-da5d-4598-8d81-6f9eaf85d6c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Pulse exe/Pulse_repl_beta_0_0_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pulse exe/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Pulse exe/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pulse_repl_beta_0_0_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info/BUGGERS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../info/BUGGERS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info/UPDATE_BETA_0_0_3.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dmkuzin2011-code"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dmkuzin2011-code/CODE-PULSE.git",
+    "accountId": "46ff1854-8e9f-4e41-b277-9ba34e70d2e2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HSlU2Fg24UBVttNbb9YDDeSvlN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "python-beta-branch",
+    "last_opened_file_path": "C:/Users/А. Кузина/UwU/Code Pulse Beta on Python/Source code"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ae9c42-da5d-4598-8d81-6f9eaf85d6c6" name="Changes" comment="" />
+      <created>1785869365254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785869365254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
